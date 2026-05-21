@@ -4,11 +4,12 @@ In this repo, I will be tracking my progress of DSA learning and practicing unde
 
 ## Topics Covered
 
-- Time and space complexity
+- Time and space complexity (done theoritically)
+- Solving Patterns
 
 
 ## Questions Solved
-- 
+- Patterns
 
 ---
 
