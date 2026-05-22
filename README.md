@@ -9,7 +9,7 @@ In this repo, I will be tracking my progress of DSA learning and practicing unde
 
 
 ## Questions Solved
-- Patterns
+- 19 Patterns
 
 ---
 
