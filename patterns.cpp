@@ -77,6 +77,36 @@ void p7(int n){
         std::cout<<'\n';
     
     }
+
+}
+void p8(int n){
+    int start=1;
+    for (int i=0;  i<n; i++){
+        if (i%2==0){start=1;}
+        else {start=0;}
+        for (int j=0; j<=i; j++){
+            std::cout<<start;
+            start= 1-start;
+        }
+        std::cout<<'\n';
+    }
+}
+void p9(int n){
+    int space= 2*(n-1);
+    for (int i=0; i<n; i++){
+        for (int j=0; j<=i; j++){
+            std::cout<<j+1;
+        }
+        for (int x=0; x<space; x++){
+            std::cout<<"-";
+        }
+        for (int y=0; y<=i; y++){
+            std::cout<<i+1-y;
+        }
+        std::cout<<'\n';
+        space-=2;
+    }
+    
 }
 int main(){
     int t;
@@ -84,7 +114,7 @@ int main(){
     for (int i=0; i<t; i++){
     int n;
     std::cin>>n;
-    p7(n);
+    p9(n);
 }
     return 0;
 }
