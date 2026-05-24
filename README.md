@@ -12,6 +12,7 @@ In this repo, I will be tracking my progress of DSA learning and practicing unde
 - Printing Vectors
 - Deletion of element/s inside vector
 - Insertion of element/s inside vector
+- Making a copy of a vector and inserting into another and useful functions for vectors
 
 
 ## Questions Solved
