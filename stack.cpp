@@ -8,6 +8,7 @@ int main(){
     st.push(3);
     st.push(4); 
     st.emplace(5);
+    st.top()+=5; //we can modify using references
     std::cout<<st.top(); //cout 5.
     st.pop(); //pop i.e delete the top at the stack
     std::cout<<st.top(); //cout 4.

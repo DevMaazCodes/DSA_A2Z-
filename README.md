@@ -16,6 +16,7 @@ In this repo, I will be tracking my progress of DSA learning and practicing unde
 - Basics of lists under STL
 - Basics of Deque under STL
 - Basics of Stack under STL
+- Basics of Queue under STL
 
 ## Questions Solved
 - 19 Patterns
