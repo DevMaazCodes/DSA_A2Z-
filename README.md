@@ -10,6 +10,7 @@ In this repo, I will be tracking my progress of DSA learning and practicing unde
 - Vectors under STL
 - Iterators and Vectors
 - Printing Vectors
+- Deletion of element/s inside vector
 
 
 ## Questions Solved
