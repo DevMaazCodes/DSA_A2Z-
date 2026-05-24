@@ -1,4 +1,5 @@
 //a list is also a container and is very similar to vector. the main difference is it has push_front and emplace_front keywords.
+//edit: it can perform all functions for front like pop front
 #include <bits/stdc++.h>
 #include <iostream>
 #include <list>
