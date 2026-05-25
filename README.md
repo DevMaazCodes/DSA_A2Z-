@@ -22,6 +22,7 @@ In this repo, I will be tracking my progress of DSA learning and practicing unde
 - Basics of MultiSets under STL
 - Basics of Unordered Sets under STL
 - Basics of Maps, Multimaps, Unordered Maps under STL
+- Basic Algorithm like sort permuatation popcount, max element
 
 ## Questions Solved
 - 19 Patterns
