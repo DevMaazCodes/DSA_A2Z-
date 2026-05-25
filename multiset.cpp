@@ -9,6 +9,7 @@ int main(){
     x.insert(8);
     x.insert(6);
     x.insert(2);
+    x.count(8); //returns the number of occorunces of 8
     x.erase(x.find(8)); //this erases only one of the eights as .find function gives a memory address to the first two
     x.erase(8); //this erases all of the eights.
     

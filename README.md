@@ -20,6 +20,7 @@ In this repo, I will be tracking my progress of DSA learning and practicing unde
 - Basics of Priority Queue under STL
 - Basics of Sets under STL
 - Basics of MultiSets under STL
+- Basics of Unordered Sets under STL
 
 ## Questions Solved
 - 19 Patterns
