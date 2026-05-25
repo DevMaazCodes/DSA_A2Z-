@@ -18,6 +18,7 @@ In this repo, I will be tracking my progress of DSA learning and practicing unde
 - Basics of Stack under STL
 - Basics of Queue under STL
 - Basics of Priority Queue under STL
+- Basics of Sets under STL
 
 ## Questions Solved
 - 19 Patterns
