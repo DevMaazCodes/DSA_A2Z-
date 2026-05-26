@@ -29,6 +29,7 @@ In this repo, I will be tracking my progress of DSA learning and practicing unde
 - 19 Patterns
 - Count digits
 - Reverse Number
+- Palindrome Number
 ---
 
 ## Goal
