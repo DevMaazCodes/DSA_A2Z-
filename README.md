@@ -27,6 +27,7 @@ In this repo, I will be tracking my progress of DSA learning and practicing unde
 
 ## Questions Solved
 - 19 Patterns
+- Count digits
 
 ---
 
