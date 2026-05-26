@@ -32,6 +32,7 @@ In this repo, I will be tracking my progress of DSA learning and practicing unde
 - Palindrome Number
 - Armstrong Number
 - Print Divisors
+- Prime Numbers
 ---
 
 ## Goal
