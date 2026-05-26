@@ -31,6 +31,7 @@ In this repo, I will be tracking my progress of DSA learning and practicing unde
 - Reverse Number
 - Palindrome Number
 - Armstrong Number
+- Print Divisors
 ---
 
 ## Goal
