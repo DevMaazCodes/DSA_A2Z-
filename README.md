@@ -25,6 +25,7 @@ In this repo, I will be tracking my progress of DSA learning and practicing unde
 - Basic Algorithm like sort permuatation popcount, max element
 - Extracting Digits
 - Euclidean Algorithm for GCD
+- Basic Recursion
 
 ## Questions Solved
 - 19 Patterns
