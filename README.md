@@ -40,6 +40,7 @@ In this repo, I will be tracking my progress of DSA learning and practicing unde
 - Print 1 to n linearly
 - Print n to 1 linearly
 - Print 1 to n linearly by backtracking
+- Print n to 1 linearly by backtracking
 ---
 
 ## Goal
