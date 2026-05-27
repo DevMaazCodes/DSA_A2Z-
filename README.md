@@ -44,6 +44,7 @@ In this repo, I will be tracking my progress of DSA learning and practicing unde
 - Print sum of first n number using parameterized recursion
 - Print sum of first n number using functional recursion
 - Find factorial of a given number n
+- Reverse an array
 ---
 
 ## Goal
