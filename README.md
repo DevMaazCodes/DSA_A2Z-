@@ -46,6 +46,7 @@ In this repo, I will be tracking my progress of DSA learning and practicing unde
 - Find factorial of a given number n
 - Reverse an array
 - Check if a string is palindrome
+- Fibonacci Numbers
 ---
 
 ## Goal
