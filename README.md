@@ -38,6 +38,7 @@ In this repo, I will be tracking my progress of DSA learning and practicing unde
 - Find GCD/HCF
 - Print name for n times
 - Print 1 to n linearly
+- Print n to 1 linearly
 ---
 
 ## Goal
