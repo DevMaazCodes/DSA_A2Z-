@@ -41,7 +41,8 @@ In this repo, I will be tracking my progress of DSA learning and practicing unde
 - Print n to 1 linearly
 - Print 1 to n linearly by backtracking
 - Print n to 1 linearly by backtracking
-- Print sum of first n number using parameterized function
+- Print sum of first n number using parameterized recursion
+- Print sum of first n number using functional recursion
 ---
 
 ## Goal
