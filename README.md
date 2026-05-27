@@ -36,6 +36,7 @@ In this repo, I will be tracking my progress of DSA learning and practicing unde
 - Print Divisors
 - Prime Numbers
 - Find GCD/HCF
+- Print name for n times
 ---
 
 ## Goal
