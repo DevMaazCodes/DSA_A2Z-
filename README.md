@@ -1,6 +1,5 @@
 # DSA Learning Journey
-
-In this repo, I will be tracking my progress of DSA learning and practicing under the scope of Striver's A2Z DSA course on YT and the sheet on his website TUF.
+In this repo, I will be tracking my progress of DSA learning and question solving under the scope of Striver's A2Z DSA course on YT and the sheet on his website TUF.
 
 ## Topics Covered
 
