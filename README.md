@@ -26,6 +26,7 @@ In this repo, I will be tracking my progress of DSA learning and question solvin
 - Euclidean Algorithm for GCD
 - Basic Recursion
 - Basic Hashing
+- Character Hashing
 
 ## Questions Solved
 - 19 Patterns
