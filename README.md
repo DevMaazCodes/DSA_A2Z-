@@ -28,6 +28,7 @@ In this repo, I will be tracking my progress of DSA learning and question solvin
 - Basic Hashing
 - Character Hashing
 - Hashing using map
+- Hashing using unordered map
 
 ## Questions Solved
 - 19 Patterns
