@@ -31,6 +31,7 @@ In this repo, I will be tracking my progress of DSA learning and question solvin
 - Hashing using unordered map
 - Selection Sort
 - Bubble Sort
+- Insertion Sort
 ## Questions Solved
 - 19 Patterns
 - Count digits
