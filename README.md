@@ -29,7 +29,7 @@ In this repo, I will be tracking my progress of DSA learning and question solvin
 - Character Hashing
 - Hashing using map
 - Hashing using unordered map
-
+- Selection Sort
 ## Questions Solved
 - 19 Patterns
 - Count digits
