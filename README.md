@@ -32,6 +32,7 @@ In this repo, I will be tracking my progress of DSA learning and question solvin
 - Selection Sort
 - Bubble Sort
 - Insertion Sort
+- Merge Sort
 ## Questions Solved
 - 19 Patterns
 - Count digits
