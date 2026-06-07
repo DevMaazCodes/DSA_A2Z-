@@ -56,7 +56,8 @@ In this repo, I will be tracking my progress of DSA learning and question solvin
 - Reverse an array
 - Check if a string is palindrome
 - Fibonacci Numbers
-- Calculate the most and least frequency elements inside array.
+- Calculate the most and least frequency elements inside array
+- Calculate largest element in array
 ---
 
 ## Goal
