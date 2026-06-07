@@ -59,6 +59,7 @@ In this repo, I will be tracking my progress of DSA learning and question solvin
 - Calculate the most and least frequency elements inside array
 - Calculate largest element in array
 - Calculate the second largest element in array
+- Check if array is sorted or not
 ---
 
 ## Goal
