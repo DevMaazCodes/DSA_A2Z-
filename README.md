@@ -62,6 +62,7 @@ In this repo, I will be tracking my progress of DSA learning and question solvin
 - Check if array is sorted or not
 - Remove duplicates from the array
 - Rotate array by 1 place
+- Rotate array by k places
 ---
 
 ## Goal
