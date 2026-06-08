@@ -64,6 +64,7 @@ In this repo, I will be tracking my progress of DSA learning and question solvin
 - Rotate array by 1 place
 - Rotate array by k places
 - Move zeroes to end
+- Linear Search
 ---
 
 ## Goal
