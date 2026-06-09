@@ -67,6 +67,7 @@ In this repo, I will be tracking my progress of DSA learning and question solvin
 - Linear Search
 - Union of sorted arrays
 - Find the missing numbers
+- Find the maximum consecutive ones in an array
 ---
 
 ## Goal
