@@ -66,6 +66,7 @@ In this repo, I will be tracking my progress of DSA learning and question solvin
 - Move zeroes to end
 - Linear Search
 - Union of sorted arrays
+- Find the missing numbers
 ---
 
 ## Goal
