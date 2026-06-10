@@ -68,6 +68,7 @@ In this repo, I will be tracking my progress of DSA learning and question solvin
 - Union of sorted arrays
 - Find the missing numbers
 - Find the maximum consecutive ones in an array
+- Find the number which appears once and others appear for exactly 2 times in an array
 ---
 
 ## Goal
