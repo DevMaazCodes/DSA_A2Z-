@@ -71,7 +71,8 @@ In this repo, I will be tracking my progress of DSA learning and question solvin
 - Find the number which appears once and others appear for exactly 2 times in an array
 - Longest subarray (continous part of array) with sum k (positive k only).
 - Longest subarray (continous part of array) with sum k (positive k only). (The array contains only positive elements)
--  2 Sum Problem
+- 2 Sum Problem
+- Sort an array of 0's, 1's and 2.
 ---
 
 ## Goal
