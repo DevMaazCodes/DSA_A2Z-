@@ -75,6 +75,7 @@ In this repo, I will be tracking my progress of DSA learning and question solvin
 - Sort an array of 0's, 1's and 2 using Dutch National Flag Algo
 - Majority Element using Moore's voting algo
 - Subarray having max sum using Kadane's algorithm
+- Best time to buy and sell stocks
 ---
 
 ## Goal
