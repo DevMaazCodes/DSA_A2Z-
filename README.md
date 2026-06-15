@@ -78,6 +78,7 @@ In this repo, I will be tracking my progress of DSA learning and question solvin
 - Best time to buy and sell stocks
 - Rearrange array so that adjacent elements have opposite signs
 - Next Permuatation
+- Leading Element in an Array
 ---
 
 ## Goal
