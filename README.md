@@ -79,6 +79,7 @@ In this repo, I will be tracking my progress of DSA learning and question solvin
 - Rearrange array so that adjacent elements have opposite signs
 - Next Permuatation
 - Leading Element in an Array
+- Longest Consecutive Sequence in an Array
 ---
 
 ## Goal
