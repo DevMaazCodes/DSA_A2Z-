@@ -81,6 +81,7 @@ In this repo, I will be tracking my progress of DSA learning and question solvin
 - Leading Element in an Array
 - Longest Consecutive Sequence in an Array
 - Set Zeroes in a Matrix
+- Rotate Matrix by 90 Degrees
 ---
 
 ## Goal
