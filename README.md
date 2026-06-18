@@ -82,6 +82,7 @@ In this repo, I will be tracking my progress of DSA learning and question solvin
 - Longest Consecutive Sequence in an Array
 - Set Zeroes in a Matrix
 - Rotate Matrix by 90 Degrees
+- Spiral Traversal in a Matrix
 ---
 
 ## Goal
