@@ -1,0 +1,2 @@
+//we will solve the 3 sum problem, the brute is using triple nested loops try out all the triplets and see which is 0 and push, we also use set to check for unique triplet
+//the better is using hashset and see take two numbers and see in set whether the needed number exists to form triplet

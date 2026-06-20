@@ -86,6 +86,7 @@ In this repo, I will be tracking my progress of DSA learning and question solvin
 - Find Number of Subarrays with Sum K
 - Pascal Triangle
 - Majority Element II
+- 3 Sum
 ---
 
 ## Goal
