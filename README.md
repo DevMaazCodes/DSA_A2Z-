@@ -85,6 +85,7 @@ In this repo, I will be tracking my progress of DSA learning and question solvin
 - Spiral Traversal in a Matrix
 - Find Number of Subarrays with Sum K
 - Pascal Triangle
+- Majority Element II
 ---
 
 ## Goal
