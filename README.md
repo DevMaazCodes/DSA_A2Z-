@@ -87,6 +87,7 @@ In this repo, I will be tracking my progress of DSA learning and question solvin
 - Pascal Triangle
 - Majority Element II
 - 3 Sum
+- 4 Sum
 ---
 
 ## Goal
