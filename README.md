@@ -91,6 +91,7 @@ In this repo, I will be tracking my progress of DSA learning and question solvin
 - Longest Subarray Having Sum 0
 - No. of Subarrays Having XOR k
 - Merge Overlapping Intervals
+- Merge 2 Sorted Arrays in Place
 ---
 
 ## Goal
