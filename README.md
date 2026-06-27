@@ -94,6 +94,7 @@ In this repo, I will be tracking my progress of DSA learning and question solvin
 - Merge 2 Sorted Arrays in Place
 - Find Missing and Repeating Numbers
 - Count Inversions
+- Reverse Pairs
 ---
 
 ## Goal
