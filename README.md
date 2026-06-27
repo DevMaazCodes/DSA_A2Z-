@@ -95,6 +95,7 @@ In this repo, I will be tracking my progress of DSA learning and question solvin
 - Find Missing and Repeating Numbers
 - Count Inversions
 - Reverse Pairs
+- Maximum Product of Subarray
 ---
 
 ## Goal
