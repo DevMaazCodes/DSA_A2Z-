@@ -97,6 +97,7 @@ In this repo, I will be tracking my progress of DSA learning and question solvin
 - Reverse Pairs
 - Maximum Product of Subarray
 - Search in a Sorted Array
+- Find Lower Bound in Sorted Array
 ---
 
 ## Goal
