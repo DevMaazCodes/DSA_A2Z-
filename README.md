@@ -99,7 +99,8 @@ In this repo, I will be tracking my progress of DSA learning and question solvin
 - Search in a Sorted Array
 - Find Lower Bound in Sorted Array
 - Find Upper Bound in Sorted Array
-- Search Insert Position
+- Search Insert Position in Sorted Array
+- Find Floor and Ceil in Sorted Array
 ---
 
 ## Goal
