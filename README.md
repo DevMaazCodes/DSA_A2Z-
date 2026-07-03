@@ -101,6 +101,7 @@ In this repo, I will be tracking my progress of DSA learning and question solvin
 - Find Upper Bound in Sorted Array
 - Search Insert Position in Sorted Array
 - Find Floor and Ceil in Sorted Array
+- Determine First and last Occurance in a Sorted Array
 ---
 
 ## Goal
