@@ -103,6 +103,7 @@ In this repo, I will be tracking my progress of DSA learning and question solvin
 - Find Floor and Ceil in Sorted Array
 - Determine First and last Occurance in a Sorted Array
 - Count Occurances in a Sorted Array
+- Search in Rotated Sorted Array-I
 ---
 
 ## Goal
