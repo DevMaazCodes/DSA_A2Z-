@@ -1,4 +1,5 @@
 //we will solve Search in rotated sorted array-I, the brute is simple for loop but we will use bs and logic to solve
+//the logic is simple we check which half is sorted and then check whether our k(target) lies in the sorted array and accordingly move high and low
 #include <bits/stdc++.h>
 int main(){
     int n;
@@ -18,16 +19,16 @@ int main(){
             ans=mid;
             break;
         }
-        if(arr[low]<=arr[mid]){
-            if(arr[low]<=k&&arr[mid]>=k){
+        if(arr[low]<=arr[mid]){  //checking if left is sorted
+            if(arr[low]<=k&&arr[mid]>=k){ //checking whether k(target) lies in the sorted array
                 high=mid-1;
             }
             else{
                 low=mid+1;
             }
         }
-        else{
-            if(arr[mid]<=k&&arr[high]>=k){
+        else{ //since left isn't sorted right must be
+            if(arr[mid]<=k&&arr[high]>=k){ //checking if it exists in sorted array
                 low=mid+1;
             }
             else{
