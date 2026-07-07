@@ -118,7 +118,6 @@ In this repo, I will be tracking my progress of DSA learning and question solvin
 - VS Code
 - Git
 - GitHub
-- g++
 
 ---
 
