@@ -105,6 +105,7 @@ In this repo, I will be tracking my progress of DSA learning and question solvin
 - Count Occurances in a Sorted Array
 - Search in Rotated Sorted Array-I
 - Search in Rotated Sorted Array-II
+- Find Minimum in Rotated Sorted Array
 ---
 
 ## Goal
