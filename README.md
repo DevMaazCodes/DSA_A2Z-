@@ -127,6 +127,6 @@ In this repo, I will be tracking my progress of DSA learning and question solvin
 ## Progress
 Learning advanced topics of C++, like STL, recursions and hashing. //Done with this
 Solving Array Questions- Arrays Done and Revised
-Solving BS Questions on 1D Arrays-
+Solving BS Questions on 1D Arrays- Done
 
 
