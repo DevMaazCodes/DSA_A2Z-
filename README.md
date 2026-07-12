@@ -108,6 +108,7 @@ In this repo, I will be tracking my progress of DSA learning and question solvin
 - Find Minimum in Rotated Sorted Array
 - Find How Many Times an Array is Rotated
 - Find Single Element in Sorted Array
+- 
 ---
 
 ## Goal
@@ -128,5 +129,6 @@ In this repo, I will be tracking my progress of DSA learning and question solvin
 Learning advanced topics of C++, like STL, recursions and hashing. //Done with this
 Solving Array Questions- Arrays Done and Revised
 Solving BS Questions on 1D Arrays- Done
+Solving BS Questions on Answers
 
 
