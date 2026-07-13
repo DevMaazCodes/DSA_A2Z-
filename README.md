@@ -110,6 +110,7 @@ In this repo, I will be tracking my progress of DSA learning and question solvin
 - Find Single Element in Sorted Array
 - Find Square Root of a Number
 - Find Nth Root of a Number
+- Koko Eating Banana
 ---
 
 ## Goal
