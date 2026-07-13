@@ -108,7 +108,7 @@ In this repo, I will be tracking my progress of DSA learning and question solvin
 - Find Minimum in Rotated Sorted Array
 - Find How Many Times an Array is Rotated
 - Find Single Element in Sorted Array
-- 
+- Find Square Root of a Number
 ---
 
 ## Goal
