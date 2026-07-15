@@ -101,7 +101,7 @@ In this repo, I will be tracking my progress of DSA learning and question solvin
 - Find Upper Bound in Sorted Array
 - Search Insert Position in Sorted Array
 - Find Floor and Ceil in Sorted Array
-- Determine First and last Occurance in a Sorted Array
+- Determine First and Last Occurance in a Sorted Array
 - Count Occurances in a Sorted Array
 - Search in Rotated Sorted Array-I
 - Search in Rotated Sorted Array-II
@@ -112,6 +112,7 @@ In this repo, I will be tracking my progress of DSA learning and question solvin
 - Find Nth Root of a Number
 - Koko Eating Banana
 - Minimum Number of Days To Make a Bouquet
+- Find The Smallest Divisor Given a Threshold
 ---
 
 ## Goal
