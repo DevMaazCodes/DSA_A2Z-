@@ -114,6 +114,7 @@ In this repo, I will be tracking my progress of DSA learning and question solvin
 - Minimum Number of Days To Make a Bouquet
 - Find The Smallest Divisor Given a Threshold
 - Capacity To Ship Packages Within D Days
+- Find Kth Missing Number in a Sorted Array
 ---
 
 ## Goal
